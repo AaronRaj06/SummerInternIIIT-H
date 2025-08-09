@@ -1,2 +1,2 @@
 # SummerInternIIIT-H
-My Project Submission of Internship
+This project is focused on detecting Tomato Yellow Leaf Curl Virus in images. I started by installing the necessary libraries, ultralytics and roboflow. Then, I downloaded a dataset specifically for this task using Roboflow. With the dataset ready, I trained a YOLOv8 model to identify the virus in images. Finally, I tested the trained model on a sample image to see if it could detect the disease.
